@@ -1,10 +1,13 @@
 # Pneumonia Detection with Convolutional Neural Networks (CNN)
 
-This repository contains code to build, train, and evaluate a Convolutional Neural Network (CNN) model for pneumonia detection from chest X-ray images. With just a few lines of code, you can create a powerful deep learning model to assist in diagnosing pneumonia. This repo is designed for beginners who are starting to learn PyTorch or CNN.
+- This repository contains code to build, train, and evaluate a Convolutional Neural Network (CNN) model for pneumonia detection from chest X-ray images. 
+- With just a few lines of code, you can create a powerful deep learning model to assist in diagnosing pneumonia. 
+- This repo is designed for beginners who are starting to learn PyTorch or CNN.
 
 ## Introduction
 
-Pneumonia is a common and potentially life-threatening condition that affects millions of people worldwide. Rapid and accurate diagnosis is crucial for effective treatment. This project aims to demonstrate how deep learning techniques, specifically CNNs implemented using PyTorch, can aid in the detection of pneumonia from medical images.
+- Pneumonia is a common and potentially life-threatening condition that affects millions of people worldwide. Rapid and accurate diagnosis is crucial for effective treatment. 
+- This project aims to demonstrate how deep learning techniques, specifically CNNs implemented using PyTorch, can aid in the detection of pneumonia from medical images.
 
 ## Notebook Contents
 
@@ -15,7 +18,8 @@ Pneumonia is a common and potentially life-threatening condition that affects mi
 
 ## Dataset
 
-The dataset used in this project consists of chest X-ray images collected from public repositories, containing both normal and pneumonia-affected images. You can find the dataset on Kaggle: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+- The dataset used in this project consists of chest X-ray images collected from public repositories, containing both normal and pneumonia-affected images. 
+- You can find the dataset on Kaggle: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
 ## Usage
 
@@ -37,7 +41,8 @@ To run the notebook and reproduce the results:
 
 ## Results
 
-After training the CNN model, you can expect to achieve an accuracy of over 90% on the test set on around 10 epochs of training. The model's performance may vary based on hyperparameters, dataset size, and other factors.
+- After training the CNN model, you can expect to achieve an accuracy of over 90% on the test set on around 10 epochs of training. 
+- The model's performance may vary based on hyperparameters, dataset size, and other factors.
 
 ## Contributions
 
@@ -50,5 +55,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 Special thanks to [Paul Mooney](https://www.kaggle.com/paultimothymooney) for providing the dataset used in this project.
-
-
